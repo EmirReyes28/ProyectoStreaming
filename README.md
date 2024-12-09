@@ -18,6 +18,8 @@ Este proyecto demuestra mis habilidades en el uso de herramientas de Google Clou
 4. **Transformación y Carga a BigQuery**: Utilizando Google Cloud Data Fusion, los datos se transforman y cargan a BigQuery para su análisis.
 5. **Creación de Dashboard Interactivo**: Finalmente, se utiliza Looker Studio para crear un dashboard interactivo que permite explorar los datos de manera visual.
 
+![](https://github.com/EmirReyes28/Contenido/blob/main/py2GCP.png)
+
 ## [Dataset](https://github.com/EmirReyes28/ProyectoStreaming/tree/main/Datasets)
 
 El dataset utilizado proviene de Kaggle y contiene información sobre diversas plataformas de streaming, incluyendo datos sobre sus catálogos, precios, géneros, calificaciones, entre otros.
