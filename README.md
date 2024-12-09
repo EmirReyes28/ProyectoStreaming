@@ -13,7 +13,7 @@ Este proyecto demuestra mis habilidades en el uso de herramientas de Google Clou
 ## Flujo de Trabajo
 
 1. **Recolección de Datos**: Se obtienen los datasets de Kaggle, relacionados con las plataformas de streaming.
-2. **Limpieza de Datos**: Los datos son procesados y limpiados utilizando Google Colab.
+2. **[Limpieza de Datos](https://github.com/EmirReyes28/ProyectoStreaming/blob/main/plataformas.ipynb)**: Los datos son procesados y limpiados utilizando Google Colab.
 3. **Exportación a Google Cloud Storage**: Los datasets limpios se exportan en formato CSV a un bucket en Google Cloud Storage.
 4. **Transformación y Carga a BigQuery**: Utilizando Google Cloud Data Fusion, los datos se transforman y cargan a BigQuery para su análisis.
 5. **Creación de Dashboard Interactivo**: Finalmente, se utiliza Looker Studio para crear un dashboard interactivo que permite explorar los datos de manera visual.
